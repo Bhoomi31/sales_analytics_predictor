@@ -1,4 +1,6 @@
-This is a ML project that is designed to predict future sales by using different machine learning algorithms(Linear Regression) so that it helps in maintaining the costs for advertising in future sales.
+ML project developed for sales forecasting using diverse machine learning algorithms.
+Aims to optimize advertising costs by predicting future sales trends.
+
 
 Tech-Stack: Python, Machine Learning
 
